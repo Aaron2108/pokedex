@@ -1,7 +1,7 @@
 import { useEffect } from "react"
 import { useParams } from "react-router-dom"
 import useFetch from "../hooks/useFetch"
-import Header from "../components/PokedexPage/header"
+import Header from "../components/PokedexPage/Header"
 
 const PokedexIdPage = () => {
 
