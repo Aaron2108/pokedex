@@ -1,0 +1,109 @@
+.container_types{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    max-width: 100%;
+}
+.welcome_trainer{
+    color: black;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.welcome_span{
+    color: red;
+}
+.article_types{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    
+}
+.input_type{
+    max-width: 400px;
+    height: 30px;
+    text-align: center;
+    outline: none;
+    border-color: aliceblue;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.5);
+}
+.button_type{
+    max-width: 100px;
+    background-color: red;
+    outline: none;
+    height:32px;
+    text-align: center;
+    padding: 2px;
+    border: 1px solid rgb(255, 255, 255);
+    color: white;
+}
+.select_type{
+    max-width: 250px;
+    height:31px;
+    text-align: center;
+    outline: none;
+    border-color: aliceblue;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.5);
+    font-size: 15px;
+    margin-left:10px ;
+}
+.pokeCards{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+}
+.card_poke{
+    margin: 20px;
+    max-width: 300px;
+    height: 500px;
+}
+.header_poke{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 140px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+}
+.img_pokeCard{
+    max-width: 100%;
+    height: 200px;
+}
+.section_pokeCard{
+    background-color: azure;
+    margin-top: -20px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height: 342px;
+}
+.poke_name{
+    text-align: center;
+    padding-top: 60px;
+}
+.ul_poke{
+    list-style: none;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.ul_pokeStats{
+    width: 100%;
+    list-style: none;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+    gap: 15px;
+    color: black;
+    padding: 0;
+}
+.stat_name{
+    font-size: 18px;
+}
+

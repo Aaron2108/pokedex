@@ -1,0 +1,90 @@
+.normal{
+    background: linear-gradient(to bottom, #735259, #BC6B7C, #7C3F4C);
+    border: 10px solid #BC6B7C;
+    color: #735259;
+}
+.fighting{
+    background: linear-gradient(to bottom, #96402A, #F1613C, #CB735D);
+    border: 10px solid #F1613C;
+    color: #96402A;
+}
+.flying{
+    background: linear-gradient(to bottom, #735259, #BC6B7C, #7C3F4C);
+    border: 10px solid #BC6B7C;
+    color: #735259;
+}
+.poison{
+    background: linear-gradient(to bottom, #5B3184, #A564E3, #CE9BFF);
+    border: 10px solid #A564E3;
+    color: #5B3184;
+}
+.ground{
+    background: linear-gradient(to bottom, #654008, #895C1A, #D69638);
+    border: 10px solid #895C1A;
+    color: #654008;
+}
+.rock{
+    background: linear-gradient(to bottom, #7E7E7E, #8D8D94, #D3D3D3);
+    border: 10px solid #8D8D94;
+    color: #7E7E7E;
+}
+.bug{
+    background: linear-gradient(to bottom, #62DB60, #3BB039, #AAFFA8);
+    border: 10px solid #3BB039;
+    color: #4AB648;
+}
+.ghost{
+    background: linear-gradient(to bottom, #323569, #454AA8, #787DDA);
+    border: 10px solid #454AA8;
+    color: #323569;
+}
+.steel{
+    background: linear-gradient(to bottom, #5E736C, #728881, #A8A8A8);
+    border: 10px solid #728881;
+    color: #5E736C;
+}
+.fire{
+    background: linear-gradient(to bottom, #F96D6F, #E35825, #E8AE1B);
+    border: 10px solid #E35825;
+    color: #E75C35;
+}
+.water{
+    background: linear-gradient(to bottom, #133258, #1479FB, #82B2F1);
+    border: 10px solid #1479FB;
+    color: #1479FB;
+}
+.grass{
+    background: linear-gradient(to bottom, #7EC6C5, #ABDAC6, #CAE099);
+    border: 10px solid #ABDAC6;
+    color: #416460;
+}
+.electric{
+    background: linear-gradient(to bottom, #0C1395, #2B319B, #7075D9);
+    border: 10px solid #2B319B;
+    color: #0C1395;
+}
+.psychic{
+    background: linear-gradient(to bottom, #3D3C44, #5F5E64, #DDDCE4);
+    border: 10px solid #5F5E64;
+    color: #3D3C44;
+}
+.ice{
+    background: linear-gradient(to bottom, #6FBEDF, #64CBF5, #BDEBFE);
+    border: 10px solid #64CBF5;
+    color: #6FBEDF;
+}
+.dragon{
+    background: linear-gradient(to bottom, #478A93, #56A4AE, #A2BEC1);
+    border: 10px solid #56A4AE;
+    color: #478A93;
+}
+.dark{
+    background: linear-gradient(to bottom, #030706, #0D1211, #5A5E5D);
+    border: 10px solid #0D1211;
+    color: #030706;
+}
+.fairy{
+    background: linear-gradient(to bottom, #971B45, #C23867, #CD7D98);
+    border: 10px solid #C23867;
+    color: #971B45;
+}
